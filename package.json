@@ -1,0 +1,22 @@
+{
+  "name": "netlify-plugin-prerender",
+  "version": "1.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shortdiv/netlify-plugin-prerender-spa"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "netlify",
+    "netlify-plugin"
+  ],
+  "author": "Divya",
+  "license": "ISC",
+  "dependencies": {
+    "react-snap": "^1.23.0"
+  }
+}

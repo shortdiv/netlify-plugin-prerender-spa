@@ -1,0 +1,4 @@
+name: netlify-plugin-prerender-spa
+inputs:
+  - name: source
+  - name: minifyHTMLOpts
