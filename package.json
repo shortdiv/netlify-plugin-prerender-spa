@@ -1,5 +1,5 @@
 {
-  "name": "netlify-plugin-prerender",
+  "name": "netlify-plugin-prerender-spa",
   "version": "1.0.0",
   "description": "",
   "repository": {
