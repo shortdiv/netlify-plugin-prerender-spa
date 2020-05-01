@@ -25,6 +25,6 @@ You can use the default options for prerendering or add customizations via the p
 
 # Config for the Netlify Build Plugin: netlify-plugin-minify-html
 [[plugins]]
-package = "./netlify-plugin-prerender-spa"
+package = "netlify-plugin-prerender-spa"
   [plugins.inputs]
   source = "dist"
