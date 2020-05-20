@@ -1,7 +1,6 @@
 const { run } = require("react-snap");
 
 module.exports = {
-  name: 'netlify-plugin-prerender-spa',
   onPostBuild: async({
     constants,
     inputs
